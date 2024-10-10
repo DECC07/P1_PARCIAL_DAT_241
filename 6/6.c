@@ -1,30 +1,34 @@
-import multiprocessing as mp
-from multiprocessing import Pool
+#include <stdio.h>
 
-def fibo(inicial, limite):
-    vector = []
-    ro = (1 + pow(5, 0.5)) / 2  # Raíz de oro
-    for i in range(inicial, limite):
-        fn = (pow(ro, i) - pow(-ro, -i)) / pow(5, 0.5)  # Fórmula de Binet
-        vector.append(round(fn))  
-    return vector
+void fibonacci(int n, int fib[]) {
+    if (n <= 0) return;  // No hay términos que calcular
+    if (n >= 1) fib[0] = 0;  // Primer término
+    if (n >= 2) fib[1] = 1;  // Segundo término
 
-if __name__ == '__main__':
-    cpu_count = mp.cpu_count()  
-    limite = round(1200 / cpu_count) 
-    print(f"Términos por proceso: {limite}")
+    // Calcular los términos de Fibonacci
+    for (int i = 2; i < n; i++) {
+        fib[i] = fib[i - 1] + fib[i - 2];
+    }
+}
 
+int main() {
+    int n;
 
-    entradas = [(i * limite, (i + 1) * limite) for i in range(cpu_count)]
-    
+    printf("Ingrese el número de términos de la secuencia de Fibonacci a calcular: ");
+    scanf("%d", &n);
 
-    with Pool() as pool:
-        resultado = pool.starmap(fibo, entradas)  
+    // Definir el tamaño del vector según n
+    int fib[n];
 
-    
-    fibo_total = []
-    for res in resultado:
-        fibo_total.extend(res)
+    // Calcular la secuencia de Fibonacci
+    fibonacci(n, fib);
 
-    
-    print(fibo_total)
+    // Mostrar los términos de la secuencia
+    printf("Los primeros %d términos de la secuencia de Fibonacci son:\n", n);
+    for (int i = 0; i < n; i++) {
+        printf("%d ", fib[i]);
+    }
+    printf("\n");
+
+    return 0;
+}
