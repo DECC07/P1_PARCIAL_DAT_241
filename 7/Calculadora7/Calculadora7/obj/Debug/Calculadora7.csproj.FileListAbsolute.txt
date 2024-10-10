@@ -1,0 +1,11 @@
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\v1\Calculadora7\Calculadora7\bin\Debug\Calculadora7.exe.config
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\v1\Calculadora7\Calculadora7\obj\Debug\Calculadora7.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\v1\Calculadora7\Calculadora7\obj\Debug\Calculadora7.Form1.resources
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\v1\Calculadora7\Calculadora7\obj\Debug\Calculadora7.Properties.Resources.resources
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\v1\Calculadora7\Calculadora7\obj\Debug\Calculadora7.csproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\v1\Calculadora7\Calculadora7\bin\Debug\Calculadora7.exe
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\v1\Calculadora7\Calculadora7\bin\Debug\Calculadora7.pdb
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\v1\Calculadora7\Calculadora7\bin\Debug\CalculadoraLib.dll
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\v1\Calculadora7\Calculadora7\bin\Debug\CalculadoraLib.pdb
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\v1\Calculadora7\Calculadora7\obj\Debug\Calculadora7.exe
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\v1\Calculadora7\Calculadora7\obj\Debug\Calculadora7.pdb

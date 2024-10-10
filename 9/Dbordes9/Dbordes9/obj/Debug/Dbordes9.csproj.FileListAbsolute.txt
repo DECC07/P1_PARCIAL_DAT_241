@@ -1,0 +1,9 @@
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\V3\Dbordes9\Dbordes9\bin\Debug\Dbordes9.exe.config
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\V3\Dbordes9\Dbordes9\bin\Debug\Dbordes9.exe
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\V3\Dbordes9\Dbordes9\bin\Debug\Dbordes9.pdb
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\V3\Dbordes9\Dbordes9\obj\Debug\Dbordes9.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\V3\Dbordes9\Dbordes9\obj\Debug\Dbordes9.Form1.resources
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\V3\Dbordes9\Dbordes9\obj\Debug\Dbordes9.Properties.Resources.resources
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\V3\Dbordes9\Dbordes9\obj\Debug\Dbordes9.csproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\V3\Dbordes9\Dbordes9\obj\Debug\Dbordes9.exe
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\V3\Dbordes9\Dbordes9\obj\Debug\Dbordes9.pdb
